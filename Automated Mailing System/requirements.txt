@@ -1,0 +1,2 @@
+Libraries required: ﻿pandas os smtplib
+Email id and it's credentials 
