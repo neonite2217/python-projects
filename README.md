@@ -52,5 +52,5 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to me at opneonite@mail.com
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to me at opneonite@gmail.com
 
