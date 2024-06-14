@@ -24,8 +24,7 @@ python ChessGame.py
 
 ## 📺 Demo
 <p align="center">
-<img src="images/chess.jpg" width=70% height=70%>!
-https://github.com/neonite2217/python-projects.git
+<img src="images/chess.jpg" width=70% height=70%>
 
 ## *Author Name*
 [Biswaketan](https://github.com/neonite2217)
