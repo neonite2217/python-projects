@@ -31,7 +31,7 @@ python star_pyramid.py
 ```
 ## 📺 Demo
 <p align="center">
-<img src="https://github.com/ss.png" width=70% height=70%>
+<img src="https://github.com/neonite2217/python-projects/blob/main/Star%20Pyramid/ss.png" width=70% height=70%>
 
 ## 🤖 Author
 [Biswaketan](https://github.com/neonite2217/)
