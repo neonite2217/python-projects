@@ -32,7 +32,7 @@ python Caterpillar.py
 
 ## 📺 Demo
 <p align="center">
-<img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/caterpillar.gif" width=70% height=70%>
+<img src="https://github.com/neonite2217/python-projects/blob/main/Caterpillar%20game/caterpillar.gif" width=70% height=70%>
 
 ## 🤖 Author
 [Biswaketan](https://github.com/neonite2217/)
