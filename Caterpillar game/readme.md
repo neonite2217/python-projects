@@ -11,7 +11,7 @@
 
 A simple Caterpillar game built in python.
 
-## 🌟 How to runHow to run the script
+## 🌟 How to run the script
 Running this game is easy.
 Clone the Repository
 ```sh
