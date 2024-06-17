@@ -16,11 +16,7 @@ This is a simple code made with while loop and you can also use for loop fot thi
 
 Made with `python`
 
-## 🌟 How to run
-You can run this using cmd.
-
-`python star_pyramid.py`
-## 🌟 How to runHow to run the script
+## 🌟 How to run the script
 Running this game is easy.
 Clone the Repository
 ```sh
