@@ -36,7 +36,7 @@ pip3 install json
 ```
 Navigate to the file and run 
 ```sh
-python csv_to_json.py
+python3 csv_to_json.py
 ```
 
 ## 🤖 Author
