@@ -13,8 +13,10 @@ Welcome to my Python Projects Repository! This repository contains a collection 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Projects](#projects)
-- [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Contact](#contact)
+- [Contributing](#contributing)
 
 ## Installation
 
@@ -40,10 +42,6 @@ Each project in this repository comes with its own set of instructions for usage
 
 Feel free to explore each project and experiment with the code!
 
-## Contributing
-
-Contributions to this repository are welcome! If you have any ideas for new projects, improvements to existing ones, or bug fixes, please open an issue or submit a pull request.
-
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -58,7 +56,9 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to [me](https://veilmsg.pythonanywhere.com/user/biswaketan_378167/?ref=dashboard_915%23959)
 
+## Contributing
 
+Contributions to this repository are welcome! If you have any ideas for new projects, improvements to existing ones, or bug fixes, please open an issue or submit a pull request.
 If you are new to Github and open source then, visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 ## Steps To Follow
