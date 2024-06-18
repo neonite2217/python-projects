@@ -36,7 +36,7 @@ pip3 install json
 ```
 Navigate to the file and run 
 ```sh
-python converter.py
+python3 converter.py
 ```
 
 ## 🤖 Author
