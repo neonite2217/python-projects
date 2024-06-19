@@ -77,7 +77,7 @@ window.title("Color Game")
 window.geometry("375x250")
 window.resizable(False, False)
 
-instructions = tk.Label(window, text="Enter the color of the text, not the word!", font=(font, 12))
+instructions = tk.Label(window, text="Enter the color of the text, not the word! ", font=(font, 12))
 instructions.pack(pady=10)
 
 score_label = tk.Label(window, text="Press Enter to start", font=(font, 12))
