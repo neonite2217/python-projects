@@ -15,9 +15,11 @@ However, it plays them back in real time. For example, if you filmed a one minut
 You need to install MoviePy. You may also need to install some audio codecs in some machines.
 
 ## 🌟 How to run
-Clone the repo
-sh ''' git clone https://github.com/neonite2217/python-projects.git'''
+Clone the Repository
 
+```sh
+git clone https://github.com/neonite2217/python-projects.git
+```
 Install required modules
 
 ```sh
