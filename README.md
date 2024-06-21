@@ -6,7 +6,7 @@
 
 ## Overview
 
-Welcome to my Python Projects Repository! This repository contains a collection of Python projects ranging from beginner-friendly to advanced, which I've created throughout my learning journey. Whether you're looking to learn Python, sharpen your skills, or explore new libraries and techniques, or just curious, you'll find something interesting here.
+Welcome to my Python Projects Repository! This repository contains a collection of small python projects ranging from beginner-friendly to advanced, which I've created throughout my learning journey. Whether you're looking to learn Python, sharpen your skills, or explore new libraries and techniques, or just curious, you'll find something interesting here.
 
 ## Table of Contents
 
