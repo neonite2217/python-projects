@@ -417,7 +417,7 @@ def main():
 	if color not in rgb_colors.keys():
 		pong_log.error(f"Color {color} not found, setting light grey")
 		color = "lightgrey"
-	# Il resto del tuo codice rimane invariato
+	
 
 	game_field = GameField(screen_width, screen_height,
 						   "black", rgb_colors[color], "Pong")
