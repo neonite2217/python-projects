@@ -15,7 +15,7 @@ _**Mechanics:**_
 
 ## ⚙️ Languages or Frameworks Used
 language used - python3.
-Packages required - tinker
+Packages required - tkinter
 
 ## 🌟 How to run the script
 Running this game is easy.
@@ -27,12 +27,12 @@ git clone https://github.com/neonite2217/python-projects.git
 Install required modules
 
 ```sh
-sudo apt-get install tinker
+sudo apt-get install tkinter
 ```
 or
 
 ```sh
-pip3 install tinker
+pip install tkinter
 ```
 
 Navigate to the file and run 
