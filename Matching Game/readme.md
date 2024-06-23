@@ -19,12 +19,12 @@ git clone https://github.com/neonite2217/python-projects.git
 Install required modules
 
 ```sh
-sudo apt-get install tk
+sudo apt-get install tkinter
 ```
 or
 
 ```sh
-pip3 install tk
+pip3 install tkinter
 ```
 
 Navigate to the file and run 
