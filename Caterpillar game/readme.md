@@ -18,10 +18,7 @@ Clone the Repository
 git clone https://github.com/neonite2217/python-projects.git
 ```
 Install required modules
-```sh
-sudo apt-get install python3-tinker
-```
-or
+
 ```sh
 pip install python3-tinker
 ```
