@@ -33,7 +33,7 @@ Just fill in the number of your board and use a comment to disable the board gen
 
 ## 📺 Demo
 <p align="center">
-<img src="image.png" width=70% height=70%>
+<img src="image.png" width=40% height=30%>
 
 ## 🤖 Author
 [Biswaketan](https://github.com/neonite2217/)
