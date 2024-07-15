@@ -28,8 +28,11 @@ git clone https://github.com/neonite2217/python-projects
 2. Navigate to the project directory:
 cd python-projects
 
-3. Install any necessary dependencies(I've mention in requirements.txt whereever required):
+3. Install any necessary dependencies(I've mention where-ever required):
    pip install -r requirements.txt
+
+Ensure you have Python 3.x installed on your system. If not, download it from the official Python website (https://www.python.org/downloads/) and install it. As all the projects require it. 
+Also pip3 / python3 are commands for Linux/ Mac OS while Windows OS users can just ignore that 3 in the end.
 
 ## Usage
 
