@@ -1,0 +1,2 @@
+javac PayrollManagementSystem.java
+java PayrollManagementSystem
