@@ -11,7 +11,7 @@ Modules : pygame
 Running this game is easy.
 Clone the Repository
 ```sh
-git clone https://github.com/neonite2217/python-projects.git
+git clone https://github.com/neonite-rc/python-projects.git
 ```
 Install required modules
 ```sh
@@ -27,4 +27,4 @@ python ChessGame.py
 <img src="images/chess.jpg" width=70% height=70%>
 
 ## *Author Name*
-[Biswaketan](https://github.com/neonite2217)
+[Biswaketan](https://github.com/neonite-rc)

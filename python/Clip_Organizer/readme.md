@@ -1,7 +1,7 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/neonite2217)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/neonite2217?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/neonite-rc)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/neonite-rc?tab=repositories)
 
 
 ## 🛠️ Description
@@ -18,7 +18,7 @@ You need to install MoviePy. You may also need to install some audio codecs in s
 Clone the Repository
 
 ```sh
-git clone https://github.com/neonite2217/python-projects.git
+git clone https://github.com/neonite-rc/python-projects.git
 ```
 Install required modules
 
@@ -43,4 +43,4 @@ Note- make sure you don't have a .DS_store file in the clips directory. This can
 
 
 ## 🤖 Author
-[Biswaketan](https://github.com/neonite2217)
+[Biswaketan](https://github.com/neonite-rc)

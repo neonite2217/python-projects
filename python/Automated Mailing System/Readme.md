@@ -24,4 +24,4 @@ These are listed in `requirements.txt` . USe the below command to install these 
 
 ## 🤖 Author
 
-[Biswaketan](https://github.com/neonite2217)
+[Biswaketan](https://github.com/neonite-rc)

@@ -23,7 +23,7 @@ Welcome to my Python Projects Repository! This repository contains a collection 
 To get started with any project in this repository, follow these steps:
 
 1. Clone the repository to your local machine:
-git clone https://github.com/neonite2217/python-projects
+git clone https://github.com/neonite-rc/python-projects
 
 2. Navigate to the project directory:
 cd python-projects
@@ -69,7 +69,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 - Select an issue and ask to be _assigned_ to it.
 - Check existing scripts in the [projects](/projects/) directory.
 - **Star** this repository.
-- On the [python-projects](https://github.com/neonite2217/python-projects) repo page, click the **Fork** button.
+- On the [python-projects](https://github.com/neonite-rc/python-projects) repo page, click the **Fork** button.
     <br><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" title="Fork image" width="400"/>
 - **Clone** your forked repository to your local machine. This button will show you the URL to run.
     <br><img src="https://docs.github.com/assets/images/help/repository/code-button.png" title="Code button" width="400"/>
@@ -86,7 +86,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 - Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git remote add upstream https://github.com/neonite2217/python-projects.git
+    git remote add upstream https://github.com/neonite-rc/python-projects.git
     git fetch upstream
     git pull upstream master
     git push
@@ -103,7 +103,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
     ```
 
 - Create a folder in
-  [projects directory](https://github.com/neonite2217/python-projects/tree/master/projects)
+  [projects directory](https://github.com/neonite-rc/python-projects/tree/master/projects)
   according to issue name.
 - Write your code and add to the respective folder in the projects directory, locally.
 - Don't forget to add a `README.md` in your folder

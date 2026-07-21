@@ -1,6 +1,6 @@
 # **Java Projects Repository**
 
-**Creator:** [neonite](https://github.com/neonite2217/)
+**Creator:** [neonite](https://github.com/neonite-rc/)
 
 This repository contains multiple Java-based projects, each organized into its own folder.
 All projects are built using **OpenJDK** and include commands on how to compile and run them.
